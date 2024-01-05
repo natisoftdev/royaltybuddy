@@ -1,0 +1,588 @@
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Afghanistan','AF');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Albania','AL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Algeria','DZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Andorra','AD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Angola','AO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Antigua e Barbuda','AG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Arabia Saudita','SA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Argentina','AR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Armenia','AM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Australia','AU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Austria','AT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Azerbaigian','AZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bahamas','BS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bahrein','BH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bangladesh','BD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Barbados','BB');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Belgio','BE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Belize','BZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Benin','BJ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bhutan','BT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bielorussia','BY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bolivia','BO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bosnia ed Erzegovina','BA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Botswana','BW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Brasile','BR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Brunei','BN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Bulgaria','BG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Burkina Faso','BF');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Burundi','BI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Cambogia','KH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Camerun','CM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Canada','CA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Capo Verde','CV');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ciad','TD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Cile','CL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Cina','CN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Cipro','CY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Città del Vaticano','VA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Colombia','CO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Comore','KM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Corea del Nord','KP');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Corea del Sud','KR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Costa d’Avorio','CI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Costa Rica','CR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Croazia','HR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Cuba','CU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Danimarca','DK');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Dominica','DM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ecuador','EC');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Egitto','EG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('El Salvador','SV');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Emirati Arabi Uniti','AE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Eritrea','ER');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Estonia','EE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Etiopia','ET');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Figi','FJ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Filippine','PH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Finlandia','FI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Francia','FR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Gabon','GA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Gambia','GM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Georgia','GE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Germania','DE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ghana','GH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Giamaica','JM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Giappone','JP');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Gibuti','DJ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Giordania','JO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Grecia','GR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Grenada','GD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Guatemala','GT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Guinea','GN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Guinea-Bissau','GW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Guinea Equatoriale','GQ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Guyana','GY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Haiti','HT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Honduras','HN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('India','IN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Indonesia','ID');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Iran','IR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Iraq','IQ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Irlanda','IE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Islanda','IS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Isole Marshall','MH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Isole Salomone','SB');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Israele','IL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Italia','IT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Kazakistan','KZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Kenya','KE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Kirghizistan','KG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Kiribati','KI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Kuwait','KW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Laos','LA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Lesotho','LS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Lettonia','LV');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Libano','LB');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Liberia,LR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Libia','LY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Liechtenstein','LI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Lituania','LT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Lussemburgo','LU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Macedonia','MK');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Madagascar','MG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Malawi','MW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Maldive','MV');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Malesia','MY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Mali','ML');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Malta','MT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Marocco','MA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Mauritania','MR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Mauritius','MU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Messico','MX');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Micronesia','FM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Moldavia','MD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Monaco','MC');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Mongolia','MN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Montenegro','ME');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Mozambico','MZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Myanmar o Birmania','MM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Namibia','NA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Nauru','NR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Nepal','NP');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Nicaragua','NI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Niger','NE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Nigeria','NG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Norvegia','NO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Nuova Zelanda','NZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Oman','OM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Paesi Bassi','NL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Pakistan','PK');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Palau','PW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Palestina','PS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Panama','PA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Papua Nuova Guinea','PG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Paraguay','PY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Perù','PE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Polonia','PL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Portogallo','PT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Qatar','QA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Regno Unito','GB');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Repubblica Ceca','CZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Repubblica Centrafricana','CF');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Repubblica del Congo','CG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Repubblica Democratica del Congo','CD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Repubblica Dominicana','DO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Romania','RO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ruanda','RW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Russia','RU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Saint Kitts e Nevis','KN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Saint Vincent e Grenadine','VC');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Samoa','WS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('San Marino','SM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Santa Lucia','LC');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('São Tomé e Príncipe','ST');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Senegal','SN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Serbia','RS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Seychelles','SC');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Sierra Leone','SL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Singapore','SG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Siria','SY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Slovacchia','SK');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Slovenia','SI');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Somalia','SO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Spagna','ES');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Sri Lanka','LK');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Stati Uniti','US');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Sudafrica','ZA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Sudan','SD');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Sudan del Sud','SS');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Suriname','SR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Svezia','SE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Svizzera','CH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Swaziland','SZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Tagikistan','TJ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Taiwan','TW');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Tanzania','TZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Thailandia','TH');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Timor Est','TL');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Togo','TG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Tonga','TO');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Trinidad e Tobago','TT');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Tunisia','TN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Turchia','TR');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Turkmenistan','TM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Tuvalu','TV');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ucraina','UA');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Uganda','UG');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Ungheria','HU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Uruguay','UY');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Uzbekistan','UZ');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Vanuatu','VU');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Venezuela','VE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Vietnam','VN');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Yemen','YE');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Zambia','ZM');
+INSERT INTO stati
+                      (nomeStato, siglaStato)
+VALUES     ('Zimbabwe','ZW');

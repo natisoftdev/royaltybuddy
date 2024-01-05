@@ -1,0 +1,10 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\album\dettagliAlbum.php 
+
+# data ora generazione file: 26/9/2018 11:56:05 
+
+1.Detalles del álbum
+2.Álbum
+3.Año de publicación
+4.Compositor
+5.Editar
+6.Eliminar álbum

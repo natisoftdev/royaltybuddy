@@ -1,0 +1,5 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\account\alertLogout.php 
+
+# data ora generazione file: 26/9/2018 14:47:48 
+
+1.Confirm the logout of user

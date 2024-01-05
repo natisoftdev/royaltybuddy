@@ -1,0 +1,14 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\brani\dettagliBrano.php 
+
+# data ora generazione file: 26/9/2018 17:38:48 
+
+1.Piece Details
+2.Piece
+3.From album
+4.Time (hh:mm:ss
+5.Release year
+6.Musical genre
+7.Composer
+8.Registration code
+9.Edit
+10.Delete piece

@@ -1,0 +1,5 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\confEliminaAllegato.php 
+
+# data ora generazione file: 27/9/2018 11:40:19 
+
+1.Confirm the deleting of the attachment

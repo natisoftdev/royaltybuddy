@@ -1,0 +1,18 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\album\listaAlbum.php 
+
+# data ora generazione file: 26/9/2018 16:02:27 
+
+1.HOME
+2.Lista Album
+3.Lista Brani
+4.Lista Eventi
+5.Lista Scalette
+6.Lista Programmi
+7.Account
+8.Impostazioni
+9.Privacy
+10.Info App
+11.Aggiungi
+12.Cerca album...
+13.Lista degli album presenti
+14.( usare la ricerca per filtrarli )

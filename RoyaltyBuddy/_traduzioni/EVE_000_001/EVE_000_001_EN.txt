@@ -1,0 +1,24 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\aggiungiEvento.php 
+
+# data ora generazione file: 27/9/2018 09:15:06 
+
+1.Attention! Select state
+2.Attention! Event field empty!
+3.Attention! Event date field empty!
+4.Attention! Place field empty!
+5.Attention! Place type field empty!
+6.Attention! Address field empty!
+7.Attention! City field empty!
+8.Attention! State field empty!
+9.Add Event
+10.Event
+11.Event date
+12.Event time (hh:mm)
+13.Place
+14.Place type
+15.Address
+16.State
+17.Choose
+18.City
+19.Save
+20.Compile the fields to add a new event

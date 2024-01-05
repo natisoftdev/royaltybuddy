@@ -1,0 +1,9 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\dettagliAllegato.php 
+
+# data ora generazione file: 27/9/2018 11:47:37 
+
+1.Dettagli Allegato
+2.Nome file
+3.Descrizione
+4.Modifica
+5.Elimina allegato

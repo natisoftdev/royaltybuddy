@@ -1,0 +1,34 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\account\modificaAccount.php 
+
+# data ora generazione file: 26/9/2018 15:03:14 
+
+1.Attention! Select state
+2.Choose
+3.Attention! Name field empty!
+4.Attention! Last name field empty!
+5.Attention! Email field not correct!
+6.Attention! An account associated with this email already exists
+7.Attention! Email field empty!
+8.Attention! State field empty!
+9.Attention! City field empty!
+10.Attention! Select musical genre
+11.Edit Account
+12.The asterisk (*) indicates the required fields
+13.Name
+14.Last name
+15.Birth date
+16.Pseudonym
+17.Email
+18.Biography
+19.State
+20.City
+21.Profile type
+22.Composer
+23.Performer
+24.Composer and Performer
+25.Fiscal Code
+26.VAT number
+27.Musical genre
+28.Musical instrument
+29.Save
+30.Edit your personal details

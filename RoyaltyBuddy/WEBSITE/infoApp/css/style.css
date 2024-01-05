@@ -1,0 +1,17 @@
+/* Info App CSS - Royalty Buddy */
+
+.centrato{
+	height:70% !important;
+	width:90% !important; 
+	text-align:center !important; 
+	position:absolute !important; 
+	top:15% !important;
+}
+
+.copyright{
+	font-size: 0.7em
+}
+
+.sfondo{
+	background-color: white !important; 
+}

@@ -1,0 +1,17 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\dettagliEvento.php 
+
+# data ora generazione file: 27/9/2018 09:24:34 
+
+1.Event Details
+2.Event
+3.Event date
+4.Event time (hh:mm)
+5.Place
+6.Place type
+7.Address
+8.State
+9.City
+10.Programs attachments
+11.View attachments 
+12.Edit
+13.Delete event

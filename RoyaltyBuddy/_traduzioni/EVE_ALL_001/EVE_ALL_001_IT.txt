@@ -1,0 +1,12 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\aggiungiAllegato.php 
+
+# data ora generazione file: 28/9/2018 14:35:42 
+
+1.Aggiungi Allegato
+2.Descrizione
+3.File non trovato
+4.File non leggibile
+5.Errore riscontrato nella lettura del file
+6.Lettura file cancellata
+7.Aggiungi
+8.Compilare i campi per aggiungere un nuovo allegato

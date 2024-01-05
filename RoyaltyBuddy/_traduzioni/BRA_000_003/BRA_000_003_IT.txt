@@ -1,0 +1,14 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\brani\dettagliBrano.php 
+
+# data ora generazione file: 26/9/2018 17:38:48 
+
+1.Dettagli Brano
+2.Brano
+3.Album di appartenenza
+4.Durata (hh:mm:ss
+5.Anno di uscita
+6.Genere musicale
+7.Compositore
+8.Codice di registrazione
+9.Modifica
+10.Elimina brano

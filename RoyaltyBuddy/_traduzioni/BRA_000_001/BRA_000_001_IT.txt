@@ -1,0 +1,21 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\brani\aggiungiBrano.php 
+
+# data ora generazione file: 28/9/2018 09:32:52 
+
+1.Attenzione! Campo brano vuoto!
+2.Attenzione! Campo album vuoto!
+3.Attenzione! Campo anno vuoto!
+4.Attenzione! Campo genere vuoto
+5.Attenzione! Campo compositore vuoto
+6.Attenzione! Campo codice vuoto
+7.Aggiungi Brano
+8.Brano
+9.Album di appartenenza
+10.Scegli
+11.Durata (hh:mm:ss)
+12.Anno di uscita
+13.Genere musicale
+14.Compositore
+15.Codice di registrazione
+16.Aggiungi
+17.Compilare i campi per aggiungere un nuovo brano

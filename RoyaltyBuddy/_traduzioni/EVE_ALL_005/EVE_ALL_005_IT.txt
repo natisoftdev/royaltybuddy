@@ -1,0 +1,13 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\modificaAllegato.php 
+
+# data ora generazione file: 28/9/2018 14:48:00 
+
+1.Modifica Allegato
+2.Nome file
+3.Descrizione
+4.File non trovato
+5.File non leggibile
+6.Errore riscontrato nella lettura del file
+7.Lettura file cancellata
+8.Salva
+9.Modificare le informazioni dell'allegato

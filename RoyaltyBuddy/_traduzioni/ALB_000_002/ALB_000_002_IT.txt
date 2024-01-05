@@ -1,0 +1,5 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\album\confEliminaAlbum.php 
+
+# data ora generazione file: 26/9/2018 15:39:14 
+
+1.Confermare l'eliminazione dell'album

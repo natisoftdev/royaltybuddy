@@ -1,0 +1,18 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\listaEventi.php 
+
+# data ora generazione file: 27/9/2018 08:59:18 
+
+1.HOME
+2.Albums List
+3.Pieces List
+4.Events List
+5.Playlists List
+6.Programs List
+7.Account
+8.Settings
+9.Privacy
+10.Info App
+11.Add
+12.Search event...
+13.List of present events
+14.( use the search to filter them )

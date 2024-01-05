@@ -1,0 +1,25 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\account\account.php 
+
+# data ora generazione file: 27/9/2018 15:38:10 
+
+1.Attenzione! Campo email non corretto!
+2.Attenzione! Esiste già un'account associata a questa email
+3.Attenzione! Campo email vuoto!
+4.Attenzione! Selezionare Stato di appartenenza
+5.Attenzione! Selezionare un genere musicale
+6.Account
+7.Nome
+8.Cognome
+9.Data di nascita
+10.Pseudonimo
+11.Email
+12.Biografia
+13.Stato
+14.Città
+15.Tipo profilo
+16.Codice fiscale
+17.Partita IVA
+18.Genere musicale
+19.Strumento musicale
+20.Modifica
+21.Elimina account

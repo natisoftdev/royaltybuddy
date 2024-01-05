@@ -1,0 +1,5 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\account\confEliminaAccount.php 
+
+# data ora generazione file: 26/9/2018 14:51:50 
+
+1.Confermare l'eliminazione dell'utente

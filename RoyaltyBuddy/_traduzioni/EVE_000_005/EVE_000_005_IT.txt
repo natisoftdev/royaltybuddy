@@ -1,0 +1,24 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\modificaEvento.php 
+
+# data ora generazione file: 28/9/2018 10:49:38 
+
+1.Attenzione! Selezionare Stato di appartenenza
+2.Attenzione! Campo evento vuoto!
+3.Attenzione! Campo data vuoto!
+4.Attenzione! Campo luogo vuoto!
+5.Attenzione! Campo tipo luogo vuoto!
+6.Attenzione! Campo indirizzo vuoto!
+7.Attenzione! Campo città vuoto!
+8.Attenzione! Campo stato vuoto!
+9.Modifica Evento
+10.Evento
+11.Data evento
+12.Ora evento (hh:mm)
+13.Luogo
+14.Tipo luogo
+15.Indirizzo
+16.Stato
+17.Scegli
+18.Città
+19.Salva
+20.Modificare le informazioni dell'evento

@@ -1,0 +1,13 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\album\modificaAlbum.php 
+
+# data ora generazione file: 27/9/2018 17:27:41 
+
+1.Attenzione! Campo album vuoto!
+2.Attenzione! Campo anno di pubblicazione vuoto!
+3.Attenzione! Campo compositore vuoto!
+4.Modifica Album
+5.Album
+6.Anno di pubblicazione
+7.Compositore
+8.Salva
+9.Modificare le informazioni dell'album

@@ -1,0 +1,8 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\listaAllegati.php 
+
+# data ora generazione file: 27/9/2018 11:57:22 
+
+1.Aggiungi
+2.Lista Allegati
+3.( selezionare immagine per vedere i dettagli e/o modificarla )
+4.Galleria degli allegati dell'evento

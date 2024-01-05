@@ -1,0 +1,23 @@
+Documentazione sulla versione e le modifiche applicate
+
+v.Demo per Giuseppe (cugino di Andrea)
+
+	- Funzionamento completo dell'applicazione
+
+v1.5.7
+
+	Bug:
+		- Fixato il bug per l'attività Allegati
+	
+v1.9.9 - 28/09/2018
+	Funzionalità:
+		- Aggiunta del codice per la traduzione delle pagine
+		- Create le pagine per l' ITALIANO
+		- Create copia delle pagine per l' INGLESE
+		- Aggiunta del metodo TRIM() (in codice PHP) per evitare ti salvare testo 
+		  con degli spazi inutili prima e dopo il vero contenuto della stringa
+		
+	Bug:
+		- Fixato il nome in modificaAlbum (prima salvava tutto in minuscolo)
+		- Fixato il nome in aggiungiAlbum (prima salvava tutto in minuscolo)  
+	
