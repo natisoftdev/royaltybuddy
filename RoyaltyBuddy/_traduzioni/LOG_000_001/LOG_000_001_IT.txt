@@ -1,0 +1,9 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\login.php 
+
+# data ora generazione file: 26/9/2018 12:45:10 
+
+1.Email
+2.Password
+3.Login
+4.Oppure Registrati
+5.Credenziali perse

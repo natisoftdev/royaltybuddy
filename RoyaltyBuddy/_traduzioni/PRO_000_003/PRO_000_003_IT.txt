@@ -1,0 +1,12 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\programmi\dettagliProgramma.php 
+
+# data ora generazione file: 27/9/2018 12:54:46 
+
+1.Dettagli Programma
+2.Evento
+3.Data evento
+4.Luogo
+5.Scaletta
+6.Lista brani
+7.Modifica
+8.Elimina programma

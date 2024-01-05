@@ -1,0 +1,9 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\uploadAllegatoMod.php 
+
+# data ora generazione file: 02/10/2018 09:53:10 
+
+1.Il file non è un'immagine
+2.Attenzione, solo file JPG, JPEG, PNG & GIF sono accettati
+3.Attenzione, il file non è stato caricato
+4.Disco C - Attenzione, c'è statto un errore nel caricamento del file
+5.Disco E - Attenzione, c'è statto un errore nel caricamento del file

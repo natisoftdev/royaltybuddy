@@ -1,0 +1,11 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\scalette\modificaScaletta.php 
+
+# data ora generazione file: 28/9/2018 11:26:31 
+
+1.Attenzione! Campo scaletta vuoto!
+2.Scegliere almeno un brano
+3.Modifica Scaletta
+4.Scaletta
+5.Lista brani
+6.Salva
+7.Modificare le informazioni della scaletta

@@ -1,0 +1,7 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\impostazioni\impostazioni.php 
+
+# data ora generazione file: 26/9/2018 12:31:13 
+
+1.Impostazioni
+2.Scegliere lingua
+3.Modificare le impostazioni dell'applicazione

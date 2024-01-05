@@ -1,0 +1,14 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\home\homeCompositore.php 
+
+# data ora generazione file: 26/9/2018 16:53:27 
+
+1.HOME
+2.Albums List
+3.Pieces List
+4.Account
+5.Settings
+6.Privacy
+7.Info App
+8.Recent Activities
+9.Last albums:
+10.Last pieces:

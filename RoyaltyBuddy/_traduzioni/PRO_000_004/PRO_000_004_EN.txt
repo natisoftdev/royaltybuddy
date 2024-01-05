@@ -1,0 +1,18 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\programmi\listaProgrammi.php 
+
+# data ora generazione file: 27/9/2018 12:39:35 
+
+1.HOME
+2.Albums List
+3.Pieces List
+4.Events List
+5.Playlists List
+6.Programs List
+7.Account
+8.Settings
+9.Privacy
+10.Info App
+11.Add
+12.Search program...
+13.List of present programs
+14.( use the search to filter them )

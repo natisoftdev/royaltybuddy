@@ -1,0 +1,20 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\home\homeCompEsec.php 
+
+# data ora generazione file: 26/9/2018 16:43:57 
+
+1.HOME
+2.Lista Album
+3.Lista Brani
+4.Lista Eventi
+5.Lista Scalette
+6.Lista Programmi
+7.Account
+8.Impostazioni
+9.Privacy
+10.Info App
+11.Attività Recenti
+12.Ultimi album:
+13.Ultimi brani:
+14.Ultimi eventi:
+15.Ultime scalette:
+16.Ultimi programmi:

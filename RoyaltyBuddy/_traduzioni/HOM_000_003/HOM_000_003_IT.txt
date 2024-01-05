@@ -1,0 +1,16 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\home\homeEsecutore.php 
+
+# data ora generazione file: 26/9/2018 16:56:11 
+
+1.HOME
+2.Lista Eventi
+3.Lista Scalette
+4.Lista Programmi
+5.Account
+6.Impostazioni
+7.Privacy
+8.Info App
+9.Attività Recenti
+10.Ultimi eventi:
+11.Ultime scalette:
+12.Ultimi programmi:

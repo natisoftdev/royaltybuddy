@@ -1,0 +1,11 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\eventi\allegati\uploadAllegatoAdd.php 
+
+# data ora generazione file: 01/10/2018 17:11:22 
+
+1.Attention choose image
+2.File is not an image
+3.Attention, file already exists
+4.Attention, only JPG, JPEG, PNG & GIF files are allowed
+5.Attention, your file was not uploaded
+6.Attention, there was an error uploading your file
+

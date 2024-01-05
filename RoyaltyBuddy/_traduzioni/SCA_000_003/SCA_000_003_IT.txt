@@ -1,0 +1,10 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\scalette\dettagliScaletta.php 
+
+# data ora generazione file: 27/9/2018 15:02:44 
+
+1.Dettagli Scaletta
+2.Scaletta
+3.Creata il
+4.Lista brani
+5.Modifica
+6.Elimina scaletta

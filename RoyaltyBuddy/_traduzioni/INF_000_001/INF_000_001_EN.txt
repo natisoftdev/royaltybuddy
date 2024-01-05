@@ -1,0 +1,7 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\infoApp\infoApp.php 
+
+# data ora generazione file: 26/9/2018 12:36:26 
+
+1.Version
+2.Developed by
+3.All rights reserved

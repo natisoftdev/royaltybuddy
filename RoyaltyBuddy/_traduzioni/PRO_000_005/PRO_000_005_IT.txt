@@ -1,0 +1,12 @@
+# path pagina web tradotta: C:\ms4w\Apache\htdocs\RoyaltyBuddy\programmi\modificaProgramma.php 
+
+# data ora generazione file: 28/9/2018 11:17:23 
+
+1.Attenzione! Campo evento vuoto!
+2.Attenzione! Campo scaletta vuoto!
+3.Modifica Programma
+4.Evento
+5.Scegli
+6.Scaletta
+7.Salva
+8.Modificare le informazioni del programma
